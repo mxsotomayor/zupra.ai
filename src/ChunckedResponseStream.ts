@@ -1,6 +1,4 @@
-import { IChunkedResponseReaderHandlers, LLMCompletionResponse } from "./schemas";
-
-
+import { IChunkedResponseReaderHandlers, LLMCompletionResponse } from "./models/schemas";
 
 class ChatCompletionContentBuilder {
 

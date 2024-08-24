@@ -1,4 +1,4 @@
-import { HTTPMethod } from "./schemas";
+import { HTTPMethod } from "./models/schemas";
 
 
 class ReadableZupraStream {
